@@ -1,2 +1,2 @@
-// a script that lists all databases
+// List all databases
 show dbs
